@@ -1,9 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
-@import url(//db.onlinewebfonts.com/c/c953d9f2f29d1b683e7bb90a7f2e716e?family=Hipeless+Brush);
+@font-face {
+    font-family: "Hipeless Brush";
+    src: url("../fonts/HipelessBrush.woff") format('woff');
+}
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
 
 
